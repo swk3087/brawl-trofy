@@ -1,1 +1,1 @@
-# brawl-trofy
+# brawlstars
